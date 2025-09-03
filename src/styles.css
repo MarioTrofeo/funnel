@@ -1,0 +1,5 @@
+@tailwind components;
+@tailwind utilities;
+
+/* Piccoli aggiustamenti opzionali dentro il tuo wrapper, niente reset globale */
+.epower-scope * { box-sizing: border-box; }
